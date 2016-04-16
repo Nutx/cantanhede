@@ -1,0 +1,4 @@
+﻿  qqcoisa.cpp
+c:\users\securpc\desktop\simon cantanhede\cantanhede\qqcoisa\qqcoisa\qqcoisa.cpp(4): warning C4627: '#include <string.h>': skipped when looking for precompiled header use
+          Add directive to 'stdafx.h' or rebuild precompiled header
+  qqcoisa.vcxproj -> C:\Users\securpc\Desktop\Simon Cantanhede\cantanhede\qqcoisa\Debug\qqcoisa.exe
